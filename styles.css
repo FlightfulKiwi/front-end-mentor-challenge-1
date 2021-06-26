@@ -1,0 +1,54 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  background-color: hsl(233, 47%, 7%);
+  margin: 0;
+}
+
+h1 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+img {
+  float: right;
+  border-radius: 0 10px 10px 0;
+}
+
+.bottom-text {
+  color: #FFFFFFC0;
+  display: inline-block;
+  font-size: 0.825rem;
+  padding: 15px;
+}
+
+.container-1 {
+  background-color: #1b1938;
+  border-radius: 10px 0 0 10px;
+  margin: auto;
+  text-align: left;
+  width: 1080px;
+}
+
+.container-2 {
+  display: inline-block;
+  height: 446px;
+  width: 540px;
+}
+
+.emphasized-text {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.insights {
+  color: #aa5cdb;
+}
+
+.mid-text {
+  color: #FFFFFFC0;
+  font-size: 0.825rem;
+  line-height: 2;
+
+}
